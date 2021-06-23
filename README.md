@@ -1,5 +1,4 @@
 # python_otp_sender
----
 This is a python mudule by which one can easily send otp to any email. 
 This is very helpful for web development purpose
 
