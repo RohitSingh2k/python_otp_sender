@@ -28,7 +28,9 @@ if n == otp:
 else:
    print("INCORRECT OTP")
 ```
-
+## Additionals : -
+* If you want to customize your email markup of OTP which is to send, then just go to `python_otp` directory and edit `index.html` file.
+* Don't remove `{% OTP %}` from `index.html`.
 ## Note : -
 
 The above module takes email where you want to send email as a string & it will return otp value which is sended to reciever's email.
