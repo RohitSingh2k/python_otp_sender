@@ -10,8 +10,8 @@ This is very helpful for web development purpose
 2. Create a gmail account for testing purpose and enable [less secure app](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4NKHRfdHXxmxYgD6LATUhs6N6ww0sBX4aegeZFXtLmr_eZnEznzem-MKdS-PWBon8Nxo0ocZ3UZYJsm5aqb9VhvKlxayg) of your testing google account.
 3. Make `.env` file in your main directory and add these two lines in it.
  ```
- EMAIL_ADDRESS=your testing email without ""
- PASSWORD=your testing email password without ""
+ EMAIL_ADDRESS=example@gmail.com
+ PASSWORD=super_secret_password
  ```
 4. Keep the `python_otp` folder in your main directory.
 
