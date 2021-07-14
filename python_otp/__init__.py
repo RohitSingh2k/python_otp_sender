@@ -40,7 +40,7 @@ def otp_for(reciever_email):
 
     msg.add_alternative(page, subtype='html')
     
-    # creating decure ssl
+    # creating secure ssl
     context = ssl.create_default_context()
     
     # creating server
